@@ -20,10 +20,10 @@ CustomAlarm is a free alarm clock application designed to create, edit and remov
 
 ● Set alarms total occurrences.
 
-● Set alarms that turn OFF on a specific Date.
+● Set alarms that turn OFF on a specific Date
 
 ![Screenshot](Screenshot_1556454368.png)
-![Screenshot](Screenshot_1556454398.png)
+![Screenshot](Screenshot_1556454417.png)
 ![Screenshot](Screenshot_1556454406.png)
 ![Screenshot](Screenshot_1556454417.png)
 
